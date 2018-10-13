@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\administrator\documents\visual studio 2015\projects\윈플 텀프\windowprogramming\main.cpp(724): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\documents\visual studio 2015\projects\윈플 텀프\windowprogramming\main.cpp(734): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  WindowProgramming.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2015\Projects\윈플 텀프\Debug\MrSquare.exe
