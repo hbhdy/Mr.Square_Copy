@@ -24,10 +24,10 @@
 인게임 화면
 ---------
 + 시작 화면
-![Image01](https://github.com/hbhdy/Mr.Square_Copy/blob/master/Readme_Image/start.png)
++![Image01](https://github.com/hbhdy/Mr.Square_Copy/blob/master/Readme_Image/start.png)
 + 스테이지 화면
-![Image02](https://github.com/hbhdy/Mr.Square_Copy/blob/master/Readme_Image/stage.png)
++![Image02](https://github.com/hbhdy/Mr.Square_Copy/blob/master/Readme_Image/stage.png)
 + 플레이 화면
-![Image03](https://github.com/hbhdy/Mr.Square_Copy/blob/master/Readme_Image/ingame.png)
++![Image03](https://github.com/hbhdy/Mr.Square_Copy/blob/master/Readme_Image/ingame.png)
 + 상점 화면
-![Image04](https://github.com/hbhdy/Mr.Square_Copy/blob/master/Readme_Image/store.png)
++![Image04](https://github.com/hbhdy/Mr.Square_Copy/blob/master/Readme_Image/store.png)
